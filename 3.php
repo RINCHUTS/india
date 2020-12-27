@@ -53,7 +53,7 @@
         </div>
         <div class="row">
             <div class="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6"><div class="card" style="width: 18rem;">
-                <img src="" class="card-img-top" alt="...">
+                <img src="images\rabri-3.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <p class="card-text">The city of Banaras is known for the famous sweet dish Rabri. It is prepared by heating the sweetened milk in a very big kadhai. It consists of dry fruits & kesar. It’s a delicious experience to enjoy a plate full of Rabri sitting on the ghats of Ganges..</p>
                 </div>
